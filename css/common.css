@@ -6,6 +6,6 @@ h2 {
   font-size: 
 }
 
-li[id^="fn:] {
+li[id^="fn:"] p {
   font-size: 12px;
 }
