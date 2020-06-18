@@ -9,3 +9,6 @@ h2 {
 li[id^="fn:"] p {
   font-size: 12px;
 }
+.container-lg {
+   padding: 20px !important;
+}
