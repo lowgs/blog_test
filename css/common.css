@@ -2,8 +2,8 @@ h1 {
   color: red;
 }
 h2 {
-  color: blue;
-  font-size: 
+  font-size: 24px;
+  text-algin: center;
 }
 
 li[id^="fn:"] p {
