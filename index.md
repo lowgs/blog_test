@@ -1,4 +1,4 @@
-<link href="/css/common.css" rel="stylesheet"></link>
+<link href="https://username.github.io/blog_test/css/common.css" rel="stylesheet"></link>
 
 
 ## 赤の女王仮説
