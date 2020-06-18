@@ -1,3 +1,6 @@
+<link href="/css/common.css" rel="stylesheet"></link>
+
+
 ## 赤の女王仮説
 
 ### ブログことはじめ
