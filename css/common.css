@@ -3,4 +3,9 @@ h1 {
 }
 h2 {
   color: blue;
+  font-size: 
+}
+
+li[id^="fn:] {
+  font-size: 12px;
 }
