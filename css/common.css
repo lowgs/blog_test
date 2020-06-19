@@ -12,3 +12,7 @@ li[id^="fn:"] p {
 .container-lg {
    padding: 20px !important;
 }
+
+p {
+  padding-left: 50px;
+}
